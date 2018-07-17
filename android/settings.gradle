@@ -1,0 +1,3 @@
+rootProject.name = 'chatengineapp'
+
+include ':app'
